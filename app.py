@@ -41,5 +41,4 @@ if st.button('Show Recommendation'):
 
 
 st.subheader("", divider='rainbow')
-st.subheader("Made by Alper Gulcuoglu")
-st.markdown('_Markdown_') 
+st.markdown('_Made by Alper Gulcuoglu_') 
