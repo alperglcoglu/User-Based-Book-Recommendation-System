@@ -38,10 +38,9 @@ if st.button('Show Recommendation'):
         st.image(image_url[5])     
 
 
+
+
 st.subheader("", divider='rainbow')
-
 st.subheader("Made by Alper Gulcuoglu")
-
-
-st.subheader("Linkedin", anchor="#www.linkedin.com/in/alpergulcuoglu")
-st.markdown("[Linkedin](#www.linkedin.com/in/alpergulcuoglu)")
+st.subheader("Linkedin", anchor="www.linkedin.com/in/alpergulcuoglu")
+st.markdown("[Linkedin](#Linkedin)")
