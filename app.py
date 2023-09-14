@@ -3,7 +3,7 @@ import streamlit as st
 import numpy as np
 from main import recommend_book
 
-st.header("Book Recommendation System")
+st.title("Book Recommender")
 model = pickle.load(open('models/model.pkl','rb'))
 book_names = pickle.load(open('models/book_names.pkl','rb'))
 final_rating = pickle.load(open('models/final_rating.pkl','rb'))
