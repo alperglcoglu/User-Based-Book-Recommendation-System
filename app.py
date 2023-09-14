@@ -44,4 +44,4 @@ st.subheader("Made by Alper Gulcuoglu")
 
 
 st.subheader("Linkedin", anchor="#www.linkedin.com/in/alpergulcuoglu")
-st.markdown("[Section 1](#www.linkedin.com/in/alpergulcuoglu)")
+st.markdown("[Linkedin](#www.linkedin.com/in/alpergulcuoglu)")
