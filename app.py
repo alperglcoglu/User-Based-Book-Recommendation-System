@@ -38,7 +38,7 @@ if st.button('Show Recommendation'):
         st.image(image_url[5])     
 
 
-st.header("", divider='rainbow')
+st.subheader("", divider='rainbow')
 
 
 
