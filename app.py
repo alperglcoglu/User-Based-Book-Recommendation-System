@@ -39,4 +39,4 @@ if st.button('Show Recommendation'):
 
 
 st.header("", divider='rainbow')
-st.header("Made by Alper Gulcuoglu")
+st.subheader("Made by Alper Gulcuoglu")
