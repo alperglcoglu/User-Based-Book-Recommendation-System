@@ -41,4 +41,4 @@ if st.button('Show Recommendation'):
 
 
 st.subheader("", divider='rainbow')
-st.markdown('_by Alper Gulcuoglu_') 
+st.markdown('_Alper Gulcuoglu_') 
