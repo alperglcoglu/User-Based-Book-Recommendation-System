@@ -42,3 +42,4 @@ if st.button('Show Recommendation'):
 
 st.subheader("", divider='rainbow')
 st.markdown('_by Alper Gulcuoglu_') 
+st.text('Fixed wi', anchor="www.linkedin.com/in/alpergulcuoglu")
