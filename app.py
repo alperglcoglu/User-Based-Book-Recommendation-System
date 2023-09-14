@@ -36,3 +36,7 @@ if st.button('Show Recommendation'):
     with col5:
         st.text(book_recomm[5])
         st.image(image_url[5])     
+
+
+st.header("", divider='rainbow')
+st.header("Made by Alper Gulcuoglu")
