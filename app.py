@@ -39,5 +39,14 @@ if st.button('Show Recommendation'):
 
 
 st.header("", divider='rainbow')
+
+
+
+
 st.subheader("Made by Alper Gulcuoglu")
-st.subheader("Linkedin", anchor="www.linkedin.com/in/alpergulcuoglu")
+
+
+
+
+
+st.subheader("Linkedin", anchor="#www.linkedin.com/in/alpergulcuoglu")
